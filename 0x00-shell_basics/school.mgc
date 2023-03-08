@@ -1,0 +1,5 @@
+#!/bin/bash
+0 string SCHOOL school data file
+file -C -m school.mgc
+echo "school" > file_school1
+
